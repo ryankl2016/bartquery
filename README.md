@@ -1,5 +1,5 @@
 # bartquery
-Chat-bot which answers earliest departure time queries for the Bay Area Rapid Transit system
+Chat-bot which interprets human speech and answers for earliest departure time queries for the Bay Area Rapid Transit system
 
 Example Usage:
 
